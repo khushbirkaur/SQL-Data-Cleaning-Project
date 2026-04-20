@@ -1,6 +1,3 @@
-# SQL-Data-Cleaning-Project
-SQL Data Cleaning Project using MySQL. This project focuses on cleaning raw layoff dataset by handling null values, removing duplicates, standardizing formats, and preparing data for analysis.
-
 # 🧹 SQL Data Cleaning Project
 
 ![MySQL](https://img.shields.io/badge/MySQL-Database-blue?logo=mysql)
@@ -8,7 +5,6 @@ SQL Data Cleaning Project using MySQL. This project focuses on cleaning raw layo
 ![Status](https://img.shields.io/badge/Status-Live-brightgreen)
 ![GitHub Repo Size](https://img.shields.io/github/repo-size/khushbirkaur/SQL-Data-Cleaning-Project)
 
-# 🧹 SQL Data Cleaning Project
 
 ## 📌 Project Overview
 
