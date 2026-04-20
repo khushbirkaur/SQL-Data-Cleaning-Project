@@ -40,6 +40,11 @@ The dataset includes information such as:
 * Country
 * Stage
 
+📌 Note:  
+- The original raw dataset (uncleaned) is also included in this repository.  
+- It contains inconsistencies, null values, and duplicates.  
+- The SQL script demonstrates how this raw data is cleaned step-by-step.
+
 ---
 
 ## ⚙️ Data Cleaning Steps
